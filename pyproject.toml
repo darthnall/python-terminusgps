@@ -1,0 +1,25 @@
+[project]
+name = "python-terminusgps"
+version = "1.0.0"
+authors = [
+    {name = "Blake Nall", email = "blake@terminusgps.com"},
+]
+description = "TerminusGPS API Wrapper"
+readme = "README.md"
+requires-python = ">=3.12"
+keywords = ["terminusgps"]
+license = "COPYING"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "Programming Language :: Python :: 3.12",
+    "License :: OSI Approvied :: GNU General Public License v3 (GPLv3)",
+    "Operating System :: OS Independent",
+]
+
+[project.urls]
+Homepage = "https://github.com/terminusgps/python-terminusgps"
+Issues = "https://github.com/terminusgps/python-termiusgps/issues"
+
+[build-system]
+requires = ["setuptools"]
+build-backend = "setuptools.build_meta"
