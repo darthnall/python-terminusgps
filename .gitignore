@@ -1,6 +1,7 @@
 .*
 !.gitignore
 Pip*
+node_modules/
 
 credentials.*
 token.*
