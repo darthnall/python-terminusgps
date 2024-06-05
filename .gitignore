@@ -1,7 +1,8 @@
 .*
 !.gitignore
-Pip*
 node_modules/
 
+Pipfile
+Pipfile.lock
 credentials.*
 token.*
